@@ -5,3 +5,5 @@ This is a containerization of ToneLib-Zoom, a freeware editor for various Zoom g
 The container uses apptainer which can be found here: https://apptainer.org/
 
 Once Apptainer is installed, you should be able to download the sif file and execute it from the terminal by naviating to the directory containing the sif file and using ./tonelib.sif
+
+Changes to the container can be made by editing the def file and rebuilding the container.
